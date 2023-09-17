@@ -6,7 +6,7 @@ from googleapiclient.http import MediaFileUpload
 import os
 
 # Replace the placeholders with your own values
-CLIENT_SECRETS_FILE = 'C:/Users/Dell/Desktop/scratches/client_secret_752699624987-ga8rlt35q6kogtt8f2dub20mp1d5bt7e.apps.googleusercontent.com.json'
+CLIENT_SECRETS_FILE = 'C:/Users/Dell/Desktop/scratches/client_secret_xxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com.json'
 API_NAME = 'youtube'
 API_VERSION = 'v3'
 SCOPES = ['https://www.googleapis.com/auth/youtube.upload']
